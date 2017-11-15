@@ -1,3 +1,4 @@
+primero edito el README en MASTER BRANCH
 # HOgit
 Repositorio con ejercicios para practicar comandos básicos de git
 
